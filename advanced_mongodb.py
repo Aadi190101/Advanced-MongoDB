@@ -1,3 +1,6 @@
+"""
+All the questions are written in #
+"""
 import pymongo
 import re
 
